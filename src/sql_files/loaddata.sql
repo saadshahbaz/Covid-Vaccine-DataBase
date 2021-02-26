@@ -20,7 +20,7 @@ INSERT INTO Person VALUES(8, 'Aria Grande', '1990-02-03', '2021-02-01', '418-984
 INSERT INTO Person VALUES(9, 'Ali Mumtaz', '1999-08-03', '2021-01-01', '438-922-0766', 'M', '3540 Rue Durocher', 'Montreal', 'H2X-2E5','Everybody else');
 INSERT INTO Person VALUES(10, 'Firzana Sadiq', '1940-08-21', '2021-02-04', '438-914-0666', 'F', '8450 Rue Anthony', 'Montreal', 'H5P-2E5','Elderly');
 INSERT INTO Person VALUES(11, 'Zahra Hussain', '2020-05-15', '2021-02-05', '438-722-0766', 'F', '9808 Rue Sherbrooke', 'Montreal', 'H2X-2E0','Children');
-INSERT INTO Person VALUES(12, 'Mahnoor Chaudhary', '1998-03-25', '2021-02-06', '538-999-0761', 'F', '1276 de la Montane', 'Montreal', 'H0X-2E8','Physical proximity 1');
+INSERT INTO Person VALUES(12, 'Meganne Johnson', '1998-03-25', '2021-02-06', '538-999-0761', 'F', '1276 de la Montane', 'Montreal', 'H0X-2E8','Physical proximity 1');
 
 
 
