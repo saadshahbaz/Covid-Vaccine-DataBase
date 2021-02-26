@@ -1,15 +1,3 @@
--- Include your create table DDL statements in this file.
--- Make sure to terminate each statement with a semicolon (;)
-
--- LEAVE this statement on. It is required to connect to your database.
-CONNECT TO cs421;
-
--- Remember to put the create table ddls for the tables with foreign key references
---    ONLY AFTER the parent tables has already been created.
-
--- This is only an example of how you add create table ddls to this file.
---   You may remove it.
-
 CREATE TABLE Category(
     cname VARCHAR(30) NOT NULL
     ,prioritynum INTEGER NOT NULL
