@@ -19,6 +19,20 @@ Creating a SQL database schema for the relational scehma that was designed earli
 - To create Tables and Insert data, Please run the following files in order `src/model/sql_files/createtbl.sh` and `src/model/sql_files/loaddata.sh`
 - To remove all the tables please run the following file: `src/model/sql_files/droptable.sh`
 
+## Creating a backend for the database 
+Creating a bakend for the relational scehma that was designed earlier in Java
+- User selects the menu option based on what they would like to do, program performs that action and goes back to displaying the menu.
+- Specific options for User include the following: <br>
+  `VaccineApp Main Menu`<br>
+     1. `Add a Person`<br>
+     2. `Assign a slot to a Person`<br>
+     3. `Enter Vaccination information`<br>
+     4. `Exit Application`<b>
+    
+  `Please Enter Your Option:`<br>
+- Conducting specific query commands inside the java to allow minimal information from the user
+- A few examples of the application specific to the database can be found in the `src/model/project3.pdf` file.
+
 ## A few SQL commands
 - A few SQL commands specific to the database can be found in the `src/model/project.pdf` file.
 
