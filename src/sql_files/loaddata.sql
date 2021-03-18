@@ -9,7 +9,7 @@ INSERT INTO Category VALUES('Physical proximity 2', 3);
 INSERT INTO Category VALUES('Everybody else', 4);
 
 
-INSERT INTO Person VALUES(1, 'Saad Shahbaz', '1999-08-03', '2021-01-01', '438-924-0766', 'M', '3540 Rue Durocher', 'Montreal', 'H2X-2E5','Everybody else');
+INSERT INTO Person VALUES(1, 'Saad Shahbaz', '1999-05-03', '2021-01-01', '438-924-1766', 'M', '3540 Rue Durocher', 'Montreal', 'H2X-2E5','Everybody else');
 INSERT INTO Person VALUES(2, 'Emma Watson', '1940-08-21', '2021-02-04', '531-908-0988', 'F', '8450 Rue Anthony', 'Quebec City', 'H5P-2E5','Elderly');
 INSERT INTO Person VALUES(3, 'Noah Stranger', '2020-05-15', '2021-02-05', '438-786-0766', 'M', '9808 Rue Sherbrooke', 'Montreal', 'H2X-2E0','Children');
 INSERT INTO Person VALUES(4, 'Abigail Hudson', '1998-03-25', '2021-02-01', '538-920-0761', 'F', '1276 de la Montane', 'Sherbrooke', 'H0X-2E8','Physical proximity 1');
