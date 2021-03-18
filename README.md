@@ -3,7 +3,7 @@
 
 ## Objective
 
-The goal of this project is to you develop and build a database application for a real-world domain. Step-by-step, designing a schema, create a database using DB2, populate the database with data, maintain, query and update your data, develop application programs, and implement a user-friendly interface. 
+The goal of this project is to develop and build a database application for a real-world domain. Step-by-step, designing a schema, create a database using DB2, populate the database with data, maintain, query and update your data, develop application programs, and implement a user-friendly interface. 
 
 ## Creating a Data Model.
 
