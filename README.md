@@ -20,7 +20,7 @@ Creating a SQL database schema for the relational scehma that was designed earli
 - To remove all the tables please run the following file: `src/model/sql_files/droptable.sh`
 
 ## Creating a backend for the database 
-Creating a bakend for the relational scehma that was designed earlier in Java
+Creating a bakend in Java for the relational scehma that was designed earlier
 - User selects the menu option based on what they would like to do, program performs that action and goes back to displaying the menu.
 - Specific options for User include the following: <br>
   `VaccineApp Main Menu`<br>
@@ -39,7 +39,7 @@ Creating a bakend for the relational scehma that was designed earlier in Java
 
 
 
-
+<br><br><br>
 
 #### Please note that all the code written in the files is for an assignment, and all rights belongs to me. Copying or using the code for an assignment is not allowed and I take no responsibility for any plagiarism or any other issues that you might run into.
 
