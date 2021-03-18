@@ -27,9 +27,9 @@ Creating a bakend for the relational scehma that was designed earlier in Java
      1. `Add a Person`<br>
      2. `Assign a slot to a Person`<br>
      3. `Enter Vaccination information`<br>
-     4. `Exit Application`<b>
-    
-  `Please Enter Your Option:`<br>
+     4. `Exit Application`<br> 
+ `Please Enter Your Option:`<br>
+  
 - Conducting specific query commands inside the java to allow minimal information from the user
 - A few examples of the application specific to the database can be found in the `src/model/project3.pdf` file.
 
